@@ -20,3 +20,5 @@ Va para o branch que você que dar o marge
 Git Merge nome da branch// merge unir os dois branchs
 
 Em caso de conflitos no marge que estão no mesmo arquivo e na mesma linha, só apagar um e dar um commit
+
+alteraçoes para teste
