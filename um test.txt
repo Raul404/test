@@ -1,0 +1,22 @@
+Git tag// consulta as tags existentes
+
+Git tag -a nome da tag -m "descrição"
+
+Git show nome da tag// mais detalhes sobre a tag
+
+Git tag -a nomedatag  chave do commit// criar uma ter de um commit antigo
+
+Git checkout nome da tag // volta os arquivos para aquela tag
+Git tag -d nome da tag// deleta a tag
+
+Branchs
+Git branch nome da branch// cria o branch
+
+Git checkout nome da branch// altera para branch
+
+Git checkout -b nome da branch// cria e altera para branch
+
+Va para o branch que você que dar o marge
+Git Merge nome da branch// merge unir os dois branchs
+
+Em caso de conflitos no marge que estão no mesmo arquivo e na mesma linha, só apagar um e dar um commit
